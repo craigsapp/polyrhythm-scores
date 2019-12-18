@@ -1,6 +1,7 @@
 !!!COM:	Bartok
 !!!OTL:	350_Bar-30/4/22-30
 **kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*S
 *I"Piano	*	*
@@ -83,4 +84,5 @@
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/04
+!!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
+!!!EEV: 2019/10/08
