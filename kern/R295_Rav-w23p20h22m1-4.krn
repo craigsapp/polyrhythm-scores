@@ -1,5 +1,7 @@
-!!!COM:	Ravel
-!!!OTL:	295_Rav-23/20/[22]1-4
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Piano Trio
+!!!example: 295
+!!!work: Rav-23
 **kern	**kern	**dynam	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:B
 *part3	*part3	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]
 *A:	*A:	*	*A:	*A:
 *M3/4	*M3/4	*	*M3/4	*M3/4
+*MM192	*MM192	*	*MM192	*MM192
 *	*	*	*	*8va
 =1	=1	=1	=1	=1
 *^	*^	*	*	*
@@ -53,6 +56,23 @@
 *	*v	*v	*	*	*
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1915/01/28
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1915
+!!!MPN: Casella, Alfredo; Enesco, George; Feuillard, Louis
+!!!ODT: 1914
+!!!PDT: 1915
+!!!excerpt-start-measure: 235
+!!!excerpt-end-measure: 238
+!!!excerpt-start-time: 4:07
+!!!excerpt-end-time: 4:12
 !!!system-decoration: [(s1,s2)]{(s3,s4)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

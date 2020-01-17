@@ -1,5 +1,7 @@
-!!!COM:	Prokofiev
-!!!OTL:	582_Pro-35/25/lignes 1-3
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Piano Sonata No. 7 in B-flat Major, op. 83
+!!!example: 582
+!!!work: Pro-35
 **kern	**kern	**dynam
 *grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
@@ -10,6 +12,7 @@
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
 *M7/8	*M7/8	*
+*MM184	*MM184	*
 =1	=1	=1
 8r	4D 4F 4B-	mp
 8BBB- 8BB-	.	.
@@ -127,6 +130,23 @@
 .	8GJ 8A 8d 8g#X	.
 ==	==	==
 *-	*-	*-
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1943/01/18
+!!!MGN:
+!!!MLC: Moscow, Russia
+!!!MPD: 1943
+!!!MPN: Richter, Sviatoslav
+!!!ODT: 1942
+!!!PDT: 1943
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:16
 !!!system-decoration: {(s1,s2)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

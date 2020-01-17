@@ -1,5 +1,7 @@
-!!!COM:	Britten
-!!!OTL:	798_Bri-42/12/41
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Hymn to St. Columban for Chorus and Organ
+!!!example: 798
+!!!work: Bri-42
 **kern	**kern	**dynam	**kern	**kern	**kern	**kern
 *grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B	*grp:A
 *part5	*part5	*part5	*part4	*part3	*part2	*part1
@@ -10,6 +12,7 @@
 *k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *F:	*F:	*	*F:	*F:	*F:	*F:
 *M5/4	*M5/4	*	*M5/4	*M5/4	*M5/4	*M5/4
+*MM80	*MM80	*	*MM80	*MM80	*MM80	*MM80
 =1	=1	=1	=1	=1	=1	=1
 8FF`L	4d 4f#X 4a	.	(4A	8F#XL	(4a	8f#XL
 (16EEL	.	.	.	8G#XJ	.	8g#XJ
@@ -29,6 +32,23 @@
 16EEJJ)	.	.	.	.	.	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal; Choral
+!!!MCN: Nelson, Havelock
+!!!MDT: 1963/06/02
+!!!MGN: Ulster Singers
+!!!MLC: Churchill, Ireland
+!!!MPD: 1963
+!!!MPN: McGraw, R.
+!!!ODT: 1962
+!!!PDT: 1963
+!!!excerpt-start-measure: 41
+!!!excerpt-end-measure: 41
+!!!excerpt-start-time: 2:15
+!!!excerpt-end-time: 2:19
 !!!system-decoration: [(s1,s2,s3,s4)]{(s5,s6)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08

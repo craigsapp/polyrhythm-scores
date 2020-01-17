@@ -1,5 +1,7 @@
-!!!COM:	Schoenberg
-!!!OTL:	215_Sch-33/85/523-528
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!example: 215
+!!!work: Sch-33
 **kern	**kern	**kern
 *grp:A	*grp:B	*grp:A
 *part2	*part2	*part1
@@ -10,6 +12,7 @@
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M2/2	*M2/2	*M2/2
+*MM88	*MM88	*MM88
 *met(c|)	*met(c|)	*met(c|)
 =1	=1	=1
 2FFn~ 2Cn 2Gn	4r	2B-X
@@ -52,6 +55,23 @@
 *	*v	*v	*
 ==	==	==
 *-	*-	*-
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Rosbaud, Hans
+!!!MDT: 1957/06/06
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1957
+!!!MPN: Fiedler, Hans; Melchert, Helmut
+!!!ODT: 1932
+!!!PDT: 1957
+!!!excerpt-start-measure: 81
+!!!excerpt-end-measure: 86
+!!!excerpt-start-time: 2:57
+!!!excerpt-end-time: 3:15
 !!!system-decoration: s1{(s2,s3)}
 !!!ONB: Converted from MusicXML on 2019/06/04 and edited by Craig Stuart Sapp
 !!!EEV: 2019/10/08
