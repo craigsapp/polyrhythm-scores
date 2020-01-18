@@ -1,84 +1,105 @@
-!!!COM:	Bartok
-!!!OTL:	354_Bar-38^2/6/lignes 1 et 2
-**kern	**kern	**kern	**dynam
-*part2	*part2	*part1	*part1
-*staff3	*staff2	*staff1	*S
-*I"Piano	*	*I"Soprano Solo	*
-*I'Pno.	*	*I'S. Solo	*
-*clefG2	*clefF4	*clefG2	*
-*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*
-*M4/4	*M4/4	*M4/4	*
-=1	=1	=1	=1
-4d~ 4a	4D~ 4A	1r	.
-*	*clefG2	*	*
-8dL 8a	8r	.	.
-8dJ 8a	8c#X'^ 8e-X 8g#X 8b-X	.	.
-8dL 8a	8r	.	.
-8d 8a	8c#'^ 8e- 8g# 8b-	.	.
-8d 8a	4r	.	.
-8dJ 8a	.	.	.
-=2	=2	=2	=2
-8dL 8a	8c#X'^ 8e-X 8g#X 8b-X	1r	.
-8d 8a	8r	.	.
-8d 8a	8r	.	.
-8dJ 8a	8c#'^ 8e- 8g# 8b-	.	.
-8dL 8a	8r	.	.
-8d 8a	8c#'^ 8e- 8g# 8b-	.	.
-8d 8a	4r	.	.
-8dJ 8a	.	.	.
-=3	=3	=3	=3
-8dL 8a	8c#X'^ 8e-X 8g#X 8b-X	4cc	.
-8d 8a	8r	.	.
-8d 8a	8r	(4dd	.
-8dJ 8a	8c#'^ 8e- 8g# 8b-	.	.
-.	.	8qcc/	.
-8dL 8a	8r	4cc)	.
-8d 8a	8c#'^ 8e- 8g# 8b-	.	.
-.	.	8qa/	.
-8d 8a	4r	(4a)	.
-8dJ 8a	.	.	.
-=4	=4	=4	=4
-!!linebreak:original
-.	.	8qg#X/	.
-*	*^	*	*
-8dL 8a	8r	8c#X'^ 8e-X 8g#X 8b-X	16fLL)	.
-.	.	.	16eJ)	.
-8d 8a	8r	8r	8dJ	.
-8d 8a	8r	8r	4d	.
-8dJ 8a	8r	8c#'^ 8e- 8g# 8b-	.	.
-.	.	.	(8qg#X/	f
-8dL 8a	(16B-XLL	8r	2a)	.
-.	16cnJ)	.	.	.
-8d 8a	8c'J	8e-'^ 8g# 8b-	.	.
-8d 8a	[4c	4r	.	.
+!!!COM: Bartók, Béla
+!!!OTL: Húsz magyar népdal (Twenty Hungarian Folksongs)
+!!!OMV: VI: Székely Friss
+!!!example: 354
+!!!work: Bar-38
+**kern	**kern	**dynam	**kern	**dynam
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Soprano Solo	*
+*I'Pno.	*	*	*I'S. Solo	*
+*clefG2	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+=1	=	=	=	=
+4d~ 4a	4D~ 4A	f	1r	.
+*	*clefG2	*	*	*
+8dL 8a	8r	.	.	.
+8dJ 8a	8c#X'^ 8e-X 8g#X 8b-X	mf	.	.
+8dL 8a	8r	.	.	.
+8d 8a	8c#'^ 8e- 8g# 8b-	.	.	.
+8d 8a	4r	.	.	.
 8dJ 8a	.	.	.	.
-=5	=5	=5	=5	=5
-8dL 8a	1c_	8e-X'^ 8g#X 8b-X	4cc	.
-8d 8a	.	8r	.	.
-8d 8a	.	8r	(4dd	.
-8dJ 8a	.	8e-'^ 8g# 8b-	.	.
+=2	=2	=2	=2	=2
+8dL 8a	8c#X'^ 8e-X 8g#X 8b-X	.	1r	.
+8d 8a	8r	.	.	.
+8d 8a	8r	.	.	.
+8dJ 8a	8c#'^ 8e- 8g# 8b-	.	.	.
+8dL 8a	8r	.	.	.
+8d 8a	8c#'^ 8e- 8g# 8b-	.	.	.
+8d 8a	4r	.	.	.
+8dJ 8a	.	.	.	.
+=3	=3	=3	=3	=3
+8dL 8a	8c#X'^ 8e-X 8g#X 8b-X	.	4cc	f
+8d 8a	8r	.	.	.
+8d 8a	8r	.	(4dd	.
+8dJ 8a	8c#'^ 8e- 8g# 8b-	.	.	.
 .	.	.	8qcc/	.
-8dL 8a	.	8r	4cc)	.
-8d 8a	.	(8e-'^) 8g# 8b-	.	.
+8dL 8a	8r	.	4cc)	.
+8d 8a	8c#'^ 8e- 8g# 8b-	.	.	.
 .	.	.	8qa/	.
-8d 8a	.	4r	(4a)	.
+8d 8a	4r	.	(4a)	.
 8dJ 8a	.	.	.	.
-=6	=6	=6	=6	=6
+=4	=4	=4	=4	=4
+!!linebreak:original
 .	.	.	8qg#X/	.
-8dL 8a	2c]	8e-X'^ 8g#X 8b-X	16fLL)	.
-.	.	.	16eJ)	.
-8d 8a	.	8r	8dJ	.
-8d 8a	.	8r	4d	.
-8dJ 8a	.	8e-'^ 8g# 8b-	.	.
-*clefF4	*	*	*	*
-(16FLL	8dL 8a	8r	2d	.
-16GJ)	.	.	.	.
-8A#X'J 8e#X 8g-X	8d 8a	8g# 8b-	.	.
-[4G	8d 8a	4r	.	.
-.	8dJ 8a	.	.	.
-*	*v	*v	*	*
-==	==	==	==
-*-	*-	*-	*-
+*	*^	*	*	*
+8dL 8a	8r	8c#X'^ 8e-X 8g#X 8b-X	.	16fLL)	.
+.	.	.	.	16eJ)	.
+8d 8a	8r	8r	.	8dJ	.
+8d 8a	8r	8r	.	4d	.
+8dJ 8a	8r	8c#'^ 8e- 8g# 8b-	.	.	.
+.	.	.	.	(8qg#X/	.
+8dL 8a	(16B-XLL	8r	f	2a)	.
+.	16cnJ)	.	.	.	.
+8d 8a	8c'J	8e-'^ 8g# 8b-	.	.	.
+8d 8a	[4c	4r	sf	.	.
+8dJ 8a	.	.	.	.	.
+=5	=5	=5	=5	=5	=5
+8dL 8a	1c_	8e-X'^ 8g#X 8b-X	.	4cc	.
+8d 8a	.	8r	.	.	.
+8d 8a	.	8r	.	(4dd	.
+8dJ 8a	.	8e-'^ 8g# 8b-	.	.	.
+.	.	.	.	8qcc/	.
+8dL 8a	.	8r	.	4cc)	.
+8d 8a	.	(8e-'^) 8g# 8b-	.	.	.
+.	.	.	.	8qa/	.
+8d 8a	.	4r	.	(4a)	.
+8dJ 8a	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+.	.	.	.	8qg#X/	.
+8dL 8a	2c]	8e-X'^ 8g#X 8b-X	.	16fLL)	.
+.	.	.	.	16eJ)	.
+8d 8a	.	8r	.	8dJ	.
+8d 8a	.	8r	.	4d	.
+8dJ 8a	.	8e-'^ 8g# 8b-	.	.	.
+*clefF4	*	*	*	*	*
+(16FLL	8dL 8a	8r	.	2d	.
+16GJ)	.	.	.	.	.
+8A#X'J 8e#X 8g-X	8d 8a	8g# 8b-	.	.	.
+[4G	8d 8a	4r	sf	.	.
+.	8dJ 8a	.	.	.	.
+*	*v	*v	*	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!AGN: Vocal; Solo
+!!!MCN:
+!!!MDT: 1930/01/30
+!!!MGN:
+!!!MLC: Budapest, Hungary
+!!!MPD: 1930
+!!!MPN: Bartók, Béla; Basilides, Mária
+!!!ODT: 1929
+!!!PDT: 1932
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 6
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:10
+!!!EEV: 2020/01/17
 !!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/05
+!!!ONB: Converted from MusicXML on 2020/01/17

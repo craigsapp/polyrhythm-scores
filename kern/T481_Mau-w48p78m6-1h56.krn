@@ -1,15 +1,18 @@
-!!!COM:	Martinu
-!!!OTL:	481_Mau-48/78/6-1[56]
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Divadlo za bránou (The Suburban Theatre), Opera Buffa in Three Acts
+!!!OMV:
+!!!example: 481
+!!!work: Mau-48
 **kern	**kern	**dynam
 *part1	*part1	*part1
-*staff2	*staff1	*S
+*staff2	*staff1	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefG2	*
 *k[]	*k[]	*
 *C:	*C:	*
 *M4/4	*M4/4	*
-=1	=1	=1
+=1	=	=
 16F#XLL 16B-X 16c	8r	f
 16C#XJ	.	.
 8GJ 8B- 8c	8cc	<
@@ -81,5 +84,23 @@
 .	8gg#J 8bb 8ccc#	.
 ==	==	==
 *-	*-	*-
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Stage; Opera
+!!!MCN: Balatka, A.
+!!!MDT: 1936/09/20
+!!!MGN: unknown
+!!!MLC: Brno, Czechia
+!!!MPD: 1936
+!!!MPN: Gabzdyl, E.; Reznícková, M.; Strejček, O.; Vána-Psota, I.
+!!!ODT: 1936
+!!!PDT: 1956
+!!!excerpt-start-measure: unknown
+!!!excerpt-end-measure: unknown
+!!!excerpt-start-time: unknown
+!!!excerpt-end-time: unknown
+!!!EEV: 2020/01/17
 !!!system-decoration: {(s1,s2)}
-!!!ONB: Converted from MusicXML on 2019/06/05
+!!!ONB: Converted from MusicXML on 2020/01/17

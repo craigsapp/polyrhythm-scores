@@ -1,50 +1,71 @@
-!!!COM:	Janacek
-!!!OTL:	132_Jan-13/35/[1]15-18 début
-**kern	**kern	**dynam	**kern
-*part2	*part2	*part2	*part1
-*staff3	*staff2	*S	*staff1
-*I"Piano	*	*	*I"Soprano Solo
-*I'Pno.	*	*	*I'S. Solo
-*clefF4	*clefG2	*	*clefG2
-*k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]
-*A-:	*A-:	*	*A-:
-*M6/4	*M6/4	*	*M6/4
-=1	=1	=1	=1
-(4C-X	(4aa-X 4ccc-X	mf	2r
-4D- 4B-	4ff-X 4aa-	.	.
-4E- 4c-X	4ee- 4gg-X	.	4r
-4F-X 4d-	4dd- 4ff-X	f	16%3dd-L
-.	.	.	16%3dd-
-4E- 4c-	4ee- 4gg-	.	.
-.	.	.	16%3ee-
-4D-) 4B-	4ff-) 4aa-	.	.
-.	.	.	16%3ff-XJ
-=2	=2	=2	=2
-(4C-X	(4aa-X 4ccc-X	[	16%3aa-L
-.	.	.	16%3ff-X
-4D- 4B-	4ff-X 4aa-	.	.
-.	.	.	16%3ee-
-4E- 4c-X	4ee- 4gg-X	.	.
-.	.	.	16%3dd-J
-4F-X 4d-	4dd- 4ff-X	.	2.r
-4E- 4c-	4ee- 4gg-	.	.
-4D-) 4B-	4ff-) 4aa-	.	.
-=3	=3	=3	=3
-(4C-X	(4aa-X 4ccc-X	.	16%3aa-L
-.	.	.	16%3ff-X
-4D- 4B-	4ff-X 4aa-	.	.
-.	.	.	16%3ee-
-4E- 4c-X	4ee- 4gg-X	.	.
-.	.	.	16%3dd-J
-4F-X 4d-	4dd- 4ff-X	.	2.r
-4E- 4c-	4ee- 4gg-	.	.
-4D-) 4B-	4ff-) 4aa-	.	.
-=4	=4	=4	=4
-4r	1.ee- 1.gg-X	f	1.r
-4DD-X 4D-X 4G-X 4B-	.	.	.
-4EE- 4E- 4G- 4B-	.	.	.
-2.r	.	.	.
-==	==	==	==
-*-	*-	*-	*-
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Amarus, Cantata for Soli, Choir and Orchestra
+!!!OMV: III: Moderato
+!!!example: 132
+!!!work: Jan-13
+**kern	**kern	**dynam	**kern	**dynam
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Soprano Solo	*
+*I'Pno.	*	*	*I'S. Solo	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
+*A-:	*A-:	*	*A-:	*
+*M6/4	*M6/4	*	*M6/4	*
+=35	=	=	=	=
+(4C-X	(4aa-X 4ccc-X	>	2r	.
+4D- 4B-	4ff-X 4aa-	.	.	.
+4E- 4c-X	4ee- 4gg-X	.	4r	.
+4F-X 4d-	4dd- 4ff-X	.	16%3dd-L	f
+.	.	.	16%3dd-	.
+4E- 4c-	4ee- 4gg-	.	.	.
+.	.	.	16%3ee-	.
+4D-) 4B-	4ff-) 4aa-	.	.	.
+.	.	.	16%3ff-XJ	.
+=36	=36	=36	=36	=36
+(4C-X	(4aa-X 4ccc-X	]	16%3aa-L	.
+.	.	.	16%3ff-X	.
+4D- 4B-	4ff-X 4aa-	.	.	.
+.	.	.	16%3ee-	.
+4E- 4c-X	4ee- 4gg-X	.	.	.
+.	.	.	16%3dd-J	.
+4F-X 4d-	4dd- 4ff-X	.	2.r	.
+4E- 4c-	4ee- 4gg-	.	.	.
+4D-) 4B-	4ff-) 4aa-	.	.	.
+=37	=37	=37	=37	=37
+(4C-X	(4aa-X 4ccc-X	.	16%3aa-L	.
+.	.	.	16%3ff-X	.
+4D- 4B-	4ff-X 4aa-	.	.	.
+.	.	.	16%3ee-	.
+4E- 4c-X	4ee- 4gg-X	.	.	.
+.	.	.	16%3dd-J	.
+4F-X 4d-	4dd- 4ff-X	.	2.r	.
+4E- 4c-	4ee- 4gg-	.	.	.
+4D-) 4B-	4ff-) 4aa-	.	.	.
+=38	=38	=38	=38	=38
+4r	1.ee- 1.gg-X	f	1.r	.
+4DD-X 4D-X 4G-X 4B-	.	.	.	.
+4EE- 4E- 4G- 4B-	.	.	.	.
+2.r	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Vocal; Choral
+!!!MCN: Vach, Ferdinand
+!!!MDT: 1912/02/25
+!!!MGN: Vienna Tokünstlerverein; Moravsky Smíšeny sbor Učitelsky
+!!!MLC: Brno, Czechia
+!!!MPD: 1912
+!!!MPN: Soupal, Karel; Tauber, Stanislav
+!!!ODT: 1897 (rev. 1906)
+!!!PDT: 1938
+!!!excerpt-start-measure: 35
+!!!excerpt-end-measure: 38
+!!!excerpt-start-time: 1:54
+!!!excerpt-end-time: 1:59
+!!!EEV: 2020/01/17
 !!!system-decoration: s1{(s2,s3)}
-!!!ONB: Converted from MusicXML on 2019/06/05
+!!!ONB: Converted from MusicXML on 2020/01/17

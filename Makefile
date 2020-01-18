@@ -8,6 +8,7 @@ update: clean
 
 pdf:
 	cp -r ../rds-scores/pdf/*.pdf pdf/
+	cp -r ../TDS_Scores_2019/pdf/*.pdf pdf/
 
 clean:
 	rm -f kern/*.krn

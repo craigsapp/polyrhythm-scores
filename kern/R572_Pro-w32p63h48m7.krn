@@ -1,5 +1,6 @@
 !!!COM: Prokofiev, Sergey (Sergeyevich)
 !!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!OMV:
 !!!example: 572
 !!!work: Pro-32
 **kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
@@ -13,7 +14,7 @@
 *D:	*	*D:	*D:	*D:	*D:	*D:	*D:
 *M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM100	*	*MM100	*MM100	*MM100	*MM100	*MM100	*MM100
-=1	=1	=1	=1	=1	=1	=1	=1
+=559	=559	=559	=559	=559	=559	=559	=559
 8.GG#XL	.	2r	4d#X 4b	4dd#X	4dd#X	8.GG#XL	8d#X'L
 .	.	.	.	.	.	.	8f#'J
 16CC#Jk	.	.	.	.	.	16CC#Jk	.

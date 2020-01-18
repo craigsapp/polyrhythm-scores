@@ -1,120 +1,141 @@
-!!!COM:	Britten
-!!!OTL:	801_Bri-2/16/[29]1-8
-**kern	**kern	**kern	**kern	**dynam
-*part4	*part3	*part2	*part1	*part1
-*staff4	*staff3	*staff2	*staff1	*S
-*I"Violoncello	*I"Viola	*I"Violin I	*I"Oboe	*
-*I'Vc.	*I'Vla.	*I'Vln. I	*I'Ob.	*
-*clefF4	*clefC3	*clefG2	*clefG2	*
-*k[]	*k[]	*k[]	*k[]	*
-*C:	*C:	*C:	*C:	*
-*M3/4	*M3/4	*M3/4	*M3/4	*
-=1	=1	=1	=1	=1
-!	!LO:TX:t=pp	!	!	!
-4r	[2.c [2.g	(12bL	(2gg	.
-.	.	12b	.	.
-.	.	12a#XJ)	.	.
-8r	.	(12g#XL	.	.
-.	.	12b	.	.
-8BB	.	.	.	.
-.	.	12a#J)	.	.
-4EE~	.	(12g#L	[4cc	.
-.	.	12b	.	.
-.	.	12a#J)	.	.
-=2	=2	=2	=2	=2
-4DD#X^ 4AA#X	2.c] 2.g]	(12g#XL	4cc_	.
-.	.	12b	.	.
-.	.	12a#XJ)	.	.
-4EE~ 4BB	.	(12g#L	8cc])	.
-.	.	12b	.	.
-.	.	.	8r	]
-.	.	12a#J)	.	.
-8r	.	(12bL	4r	.
-.	.	12cc#X	.	.
-8BB	.	.	.	.
-.	.	12eeJ)	.	.
-=3	=3	=3	=3	=3
-4EE~	[2.C [2.G	(12G#XL	4r	.
-.	.	12B	.	.
-.	.	12A#XJ)	.	.
-4FF#X^ 4C#X	.	(12G#L	16r	.
-.	.	.	(16c	pp
-.	.	12B	.	.
-.	.	.	[4.g	.
-.	.	12A#J)	.	.
-4EE~ 4BB	.	(12G#L	.	.
-.	.	12B	.	.
-.	.	12A#J)	.	.
-=4	=4	=4	=4	=4
-8r	2.C_ 2.G_	(12G#XL	8g])	.
-.	.	12B	.	.
-8BB	.	.	(4g	.
-.	.	12A#XJ)	.	.
-4EE~	.	(12G#L	.	.
-.	.	12B	.	.
-.	.	.	8a	.
-.	.	12A#J)	.	.
-4DD#X^ 4AA#X	.	(12G#L	20eLL	.
-.	.	.	20g	.
-.	.	12B	.	.
-.	.	.	20f	.
-.	.	.	20e	.
-.	.	12A#J)	.	.
-.	.	.	20dJJ	.
-=5	=5	=5	=5	=5
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Phantasy for Oboe, Violin, Viola and Violincello
+!!!OMV:
+!!!example: 801
+!!!work: Bri-2
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Oboe	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Ob.	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=334	=	=	=	=	=	=	=
+!	!	!LO:TX:t=pp subito	!	!	!	!	!
+4r	.	[2.c [2.g	.	(12bL	ppp	(2gg	f
+.	.	.	.	12b	.	.	.
+.	.	.	.	12a#XJ)	.	.	.
+8r	.	.	.	(12g#XL	.	.	.
+.	.	.	.	12b	.	.	.
+8BB	pp	.	.	.	.	.	.
+.	.	.	.	12a#J)	.	.	.
+4EE~	.	.	.	(12g#L	.	[4cc	>
+.	.	.	.	12b	.	.	.
+.	.	.	.	12a#J)	.	.	.
+=335	=335	=335	=335	=335	=335	=335	=335
+4DD#X^ 4AA#X	.	2.c] 2.g]	.	(12g#XL	.	4cc_	.
+.	.	.	.	12b	.	.	.
+.	.	.	.	12a#XJ)	.	.	.
+4EE~ 4BB	.	.	.	(12g#L	.	8cc])	.
+.	.	.	.	12b	.	.	.
+.	.	.	.	.	.	8r	]
+.	.	.	.	12a#J)	.	.	.
+8r	.	.	.	(12bL	<	4r	.
+.	.	.	.	12cc#X	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12eeJ)	[[	.	.
+=336	=336	=336	=336	=336	=336	=336	=336
+4EE~	.	[2.C [2.G	pp	(12G#XL	[	4r	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4FF#X^ 4C#X	.	.	.	(12G#L	.	16r	.
+.	.	.	.	.	.	(16c	pp
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	[4.g	.
+.	.	.	.	12A#J)	.	.	.
+4EE~ 4BB	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+=337	=337	=337	=337	=337	=337	=337	=337
+8r	.	2.C_ 2.G_	.	(12G#XL	.	8g])	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	(4g	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	8a	.
+.	.	.	.	12A#J)	.	.	.
+4DD#X^ 4AA#X	.	.	.	(12G#L	.	20eLL	<
+.	.	.	.	.	.	20g	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	20f	.
+.	.	.	.	.	.	20e	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	20dJJ	.
+=338	=338	=338	=338	=338	=338	=338	=338
 !!linebreak:original
-4EE~ 4BB	2.C_ 2.G_	(12G#XL	4g)	.
-.	.	12B	.	.
-.	.	12A#XJ)	.	.
-.	.	.	16qqg/	f
-.	.	.	16qqa/	.
-8r	.	(12G#L	([2g~	.
-.	.	12B	.	.
-8BB	.	.	.	.
-.	.	12A#J)	.	.
-4EE~	.	(12G#L	.	.
-.	.	12B	.	.
-.	.	12A#J)	.	.
-=6	=6	=6	=6	=6
-4FF#X^ 4C#X	2.C_ 2.G_	(12G#XL	8gL]	.
-.	.	12B	.	.
-.	.	.	8aJ	.
-.	.	12A#XJ)	.	.
-4EE~ 4BB	.	(12G#L	12eL	.
-.	.	12B	12d	.
-.	.	12A#J)	12eJ	.
-8r	.	(12G#L	16gLL	.
-.	.	.	16f	.
-.	.	12B	.	.
-8BB	.	.	16e	.
-.	.	12A#J)	.	.
-.	.	.	16dJJ	.
-=7	=7	=7	=7	=7
-4EE~	2.C_ 2.G_	(12G#XL	2g)	.
-.	.	12B	.	.
-.	.	12A#XJ)	.	.
-4DD#X^ 4AA#X	.	(12G#L	.	.
-.	.	12B	.	.
-.	.	12A#J)	.	.
-.	.	.	16qqa/	.
-.	.	.	16qqf#X/	.
-4EE~ 4BB	.	(12G#L	([4g^	.
-.	.	12B	.	.
-.	.	12A#J)	.	.
-=8	=8	=8	=8	=8
-8r	2.C_ 2.G_	(12G#XL	4g])	.
-.	.	12B	.	.
-8BB	.	.	.	.
-.	.	12A#XJ)	.	.
-4EE~	.	(12G#L	8r	.
-.	.	12B	.	.
-.	.	.	(4g	p
-.	.	12A#J)	.	.
-4FF#X^ 4C#X	.	(12G#L	.	.
-.	.	12B	.	.
-.	.	.	[8a)	.
-.	.	12A#J)	.	.
-==	==	==	==	==
-*-	*-	*-	*-	*-
+4EE~ 4BB	.	2.C_ 2.G_	.	(12G#XL	.	4g)	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+.	.	.	.	.	.	16qqg/	[
+.	.	.	.	.	.	16qqa/	.
+8r	.	.	.	(12G#L	.	([2g~	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12A#J)	.	.	.
+4EE~	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+=339	=339	=339	=339	=339	=339	=339	=339
+4FF#X^ 4C#X	.	2.C_ 2.G_	.	(12G#XL	.	8gL]	<
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	8aJ	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~ 4BB	.	.	.	(12G#L	.	12eL	[
+.	.	.	.	12B	.	12d	.
+.	.	.	.	12A#J)	.	12eJ	.
+8r	.	.	.	(12G#L	.	16gLL	>
+.	.	.	.	.	.	16f	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	16e	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	16dJJ	.
+=340	=340	=340	=340	=340	=340	=340	=340
+4EE~	.	2.C_ 2.G_	.	(12G#XL	.	2g)	]
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4DD#X^ 4AA#X	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	16qqa/	.
+.	.	.	.	.	.	16qqf#X/	.
+4EE~ 4BB	.	.	.	(12G#L	.	([4g^	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+=341	=341	=341	=341	=341	=341	=341	=341
+8r	.	2.C_ 2.G_	.	(12G#XL	.	4g])	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~	.	.	.	(12G#L	.	8r	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	(4g	p
+.	.	.	.	12A#J)	.	.	.
+4FF#X^ 4C#X	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	[8a)	.
+.	.	.	.	12A#J)	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1933/08/06
+!!!MGN: International String Quartet
+!!!MLC: London, United Kingdom
+!!!MPD: 1933
+!!!MPN: Bray, Eric; Goossens, Leon; Mangeot, André; Shinebourne, Jack
+!!!ODT: 1932
+!!!PDT: 1935
+!!!excerpt-start-measure: 334
+!!!excerpt-end-measure: 341
+!!!excerpt-start-time: 9:27
+!!!excerpt-end-time: 9:47
+!!!EEV: 2020/01/17
 !!!system-decoration: s1[(s2,s3,s4)]
-!!!ONB: Converted from MusicXML on 2019/06/05
+!!!ONB: Converted from MusicXML on 2020/01/17
