@@ -4,20 +4,22 @@
 !!!example: 187
 !!!work: Deb-42
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
 *I"Piano	*	*
 *I'Pno.	*	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *F:	*F:	*
 *M2/4	*M2/4	*
-*MM107	*MM107	*
 *8ba	*	*
 =122	=122	=122
 *^	*	*
-8AAA'L	8GGG	2r	.
+!	!	!LO:TX:t=[quarter]=107	!
+!	!	!LO:TX:b:i:t=lointain et raide	!
+8AAA'L	8GGG	2r	pp
 8AAA'J	8r	.	.
 8AAA'L	8GGG	.	.
 8AAA'J	8r	.	.
@@ -40,15 +42,17 @@
 =126	=126	=126
 *	*8va	*
 *^	*	*
-8AAA'L	8GGG	(16aaaKL	pp
+!	!	!LO:TX:b:i:t=sempre	!
+8AAA'L	8GGG	(16aaaKL	.
 .	.	8cccc)	.
 8AAA'J	8r	.	.
-.	.	(16aaaJk	.
+.	.	(16aaaJk	pp
 8AAA'L	8GGG	8cccc'L)	.
 8AAA'J	8r	8aaa'J	.
 =127	=127	=127	=127
-8AAA'L	8GGG	(16aaaKL	.
-.	.	8cccc)	.
+!	!	!LO:TX:b:i:t=très exactement rythmé	!
+8AAA'L	8GGG	(16fffKL	.
+.	.	8aaa)	.
 8AAA'J	8r	.	.
 .	.	(16fffJk	.
 8AAA'L	8GGG	8aaa'L)	.
@@ -72,11 +76,11 @@
 8AAA'J	8r	.	.
 .	.	(16cccJk	.
 8AAA'L	8GGG	8aa'L)	.
-8AAA'J	8r	8ccc'J	.
 *v	*v	*	*
-=131	=131	=131
-*	*X8va	*
 *^	*	*
+8AAA'J	8r	8ccc'J	.
+*	*	*X8va	*
+=131	=131	=131	=131
 8AAA'L	8GGG	(16aaKL	.
 .	.	8bb-)	.
 8AAA'J	8r	.	.
@@ -95,20 +99,23 @@
 8AAA'L	8GGG	2cc)	.
 8AAA'J	8r	.	.
 8AAA'L	8GGG	.	.
+*v	*v	*	*
+*	*	*
+*^	*	*
 8AAA'J	8r	.	.
 *v	*v	*	*
-*	*clefF4	*
+*X8ba	*clefF4	*
 =134	=134	=134
-*X8ba	*	*
 8F'L	(16AKL	p
+!	!LO:TX:b:i:t=en augmentant peu à peu	!
 .	8c)	.
 8f'J	.	.
 .	(16AJk	.
 8E'L	8c'L)	.
 8e'J	8A'J	.
 =135	=135	=135
-8D'L	(16AKL	.
-.	8c)	.
+8D'L	(16FKL	.
+.	8A)	.
 8d'J	.	.
 .	(16FJk	.
 8C'L	8A'L)	.
@@ -128,7 +135,7 @@
 8B-'J	.	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1862/08/22-1918/03/25
 !!!CBL: St Germain-en-Laye, France
 !!!CDL: Paris, France
@@ -146,5 +153,5 @@
 !!!excerpt-end-measure: 137
 !!!excerpt-start-time: 3:44
 !!!excerpt-end-time: 4:02
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

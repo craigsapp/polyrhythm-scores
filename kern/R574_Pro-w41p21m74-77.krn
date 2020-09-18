@@ -4,7 +4,6 @@
 !!!example: 574
 !!!work: Pro-41
 **kern	**kern	**dynam
-*grp:A	*grp:B	*grp:B
 *part1	*part1	*part1
 *staff2	*staff1	*
 *I"Piano	*	*
@@ -13,9 +12,11 @@
 *k[b-e-a-d-]	*k[b-e-a-d-]	*
 *A-:	*A-:	*
 *M4/4	*M4/4	*
-*MM96	*MM96	*
 =74	=74	=74
-20AAA-LL	8.AA-~L	.
+!	!LO:TX:t=[quarter]=96	!
+!	!LO:TX:b:t=[p]	!
+!	!	!LO:DY:ed=brack
+20AAA-LL	8.AA-~L	.p
 20CC-X	.	.
 20AAA-	.	.
 20FFF#X	.	.
@@ -66,8 +67,8 @@
 20DDD#	.	.
 .	16c#XJk	.
 20EEEJJ	.	.
-*	*clefG2	*
 =76	=76	=76
+*	*clefG2	*
 20GGGLL	8.c#X~L	.
 20CC	.	.
 20GGG	.	.
@@ -115,11 +116,11 @@
 20CC	.	.
 20GGG	.	.
 20DDD	.	.
-.	16dJk	.
+.	16dJk	[
 20EEEJJ	.	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}
+!!!system-decoration: [({(s1,s2)})]
 !!!CDT: 1891/04/23-1953/03/05
 !!!CBL: Sontsovka, Ukraine
 !!!CDL: Moscow, Russia
@@ -137,5 +138,5 @@
 !!!excerpt-end-measure: 77
 !!!excerpt-start-time: 4:54
 !!!excerpt-end-time: 5:04
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -4,7 +4,6 @@
 !!!example: 730
 !!!work: Mes-16
 **kern	**kern	**kern
-*grp:A	*grp:B	*grp:B
 *part2	*part1	*part1
 *staff3	*staff2	*staff1
 *I"Pedals	*I"Organ	*
@@ -13,18 +12,17 @@
 *k[]	*k[]	*k[]
 *C:	*C:	*C:
 *M11/8	*M11/8	*M11/8
-*MM23	*MM23	*MM23
 =26	=26	=26
 8C#XL	4c#X 4e 4f#X 4b-X	4ee 4aa 4ddd#X
 [8D#X	.	.
 16D#k]	8.r	16ccnLL 16ee 16aa
-8Fn	.	16cc#XJJ 16ff#X 16bb-X
-.	.	16dd#XKL 16ggn 16cccn
-[8Gn	16r	8ee 8aa 8ccc#X
+8Fn	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16ggn 16cccn
+[8Gn	16r	8eeL 8aa 8ccc#X
 .	[4.c# [4.e [4.f# [4.b-	.
-8G]	.	8.b-XJ 8.dd#X 8.ggn
+8G]	.	8.b-X 8.dd#X 8.ggn
 [16AJk	.	.
-8AL_	.	8cc#X 8ff#X 8bb-X
+8AL_	.	8cc#XJ 8ff#X 8bb-X
 8.A]	8c#L] 8e] 8f#] 8b-]	2dd#X 2ggn 2cccn
 .	8fnJ 8g 8b- 8ddn	.
 [16D#XJk	.	.
@@ -33,15 +31,15 @@
 =27	=27	=27
 8.BBnL]	16c#LL] 16e] 16f#] 16b-]	4ee 4aa 4ddd#X
 .	16fn 16g#X 16b-X 16ddn	.
-.	16e#X 16f 16a 16cc#X	.
+.	16e 16f#X 16a 16cc#X	.
 [16Fnk	16dJ 16fn 16g#X 16ccn	.
-8.F_	[8.c#X [8.en [8.f#X [8.b-X	16ccnLL 16ee 16aa
-.	.	16cc#XJJ 16ff#X 16bb-X
-.	.	16dd#XKL 16ggn 16cccn
-8F]	16c#XJk] 16e] 16f#X] 16b-X]	8ee 8aa 8ccc#X
+8.F_	[8.c#X [8.e [8.f#X [8.b-X	16ccnLL 16ee 16aa
+.	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16ggn 16cccn
+8F]	16c#XJk] 16e] 16f#X] 16b-X]	8eeL 8aa 8ccc#X
 .	16r	.
-[8.BBnJ	8.r	8.b-XJ 8.dd#X 8.ggn
-16BBLL]	[8c#X [8e [8f#X [8b-X	8cc#X 8ff#X 8bb-X
+[8.BBnJ	8.r	8.b-X 8.dd#X 8.ggn
+16BBLL]	[8c#X [8e [8f#X [8b-X	8cc#XJ 8ff#X 8bb-X
 [16C#X	.	.
 16C#J]	4.c#X] 4.e] 4.f#X] 4.b-X]	2dd#X 2ggn 2cccn
 8.D#XJ	.	.
@@ -49,7 +47,7 @@
 8GnJ	8fn 8g#X 8b-X 8ddn	.
 =	=	=
 *-	*-	*-
-!!!system-decoration: {(s1,s2)}s3
+!!!system-decoration: [({(s1,s2)})]s3
 !!!CDT: 1908/12/10-1992/04/27
 !!!CBL: Avignon, France
 !!!CDL: Paris, France
@@ -67,5 +65,5 @@
 !!!excerpt-end-measure: 27
 !!!excerpt-start-time: 2:22
 !!!excerpt-end-time: 2:51
-!!!EEV: 2020/01/27
-!!!ONB: Converted from MusicXML on 2020/01/27
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
